@@ -41,9 +41,9 @@ public class Ejercicio {
    karel.turnLeft();
    karel.move();
    karel.pickThing();
-   girarDerecha(karel,3);
-   karel.move();
    girarDerecha(karel,2);
+   karel.move();
+   girarDerecha(karel,3);
    karel.move();
    girarDerecha(karel,3);
    karel.move();
